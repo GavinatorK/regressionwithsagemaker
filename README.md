@@ -16,8 +16,9 @@ UCI Abalone dataset
 
 Abalone are a type of edible snail. In this workshop we will try and predict the number of rings on the shell based on a variety of factors. 
 
-
+### Abalone Old
 ![Abalone Old](/images/shap_old_abalone.png?raw=true "Old Abalone Properties")
 
 
+### Abalone Young
 ![Abalone Young](/images/shap_young_abalone.png?raw=true "Young Abalone Properties")
