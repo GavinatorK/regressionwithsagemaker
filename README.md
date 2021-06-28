@@ -1,13 +1,70 @@
 # Amazon Sagemaker Built in Algorithms for Regression.
 Regression using XGBoost and Linear Learner Algorithms.
 
-# Lab 0: Starting Amazon SageMaker Studio
+# Getting Started
+
+One way to interact with the AWS platform is by using the [AWS Management Console](https://aws.amazon.com/console/). This intuitive, web-based console allows you to administer all of your AWS resources in a single interface.
+
+## Log In
+
+![Event Engine Dashboard Login Screenshot](img/ee-dashboard-login.jpg)
+
+We will be using AWS Event Engine for the labs in order to prevent you from incurring any expense.
+
+To access the AWS Event Engine Team Dashboard, [open this link in a new tab](https://dashboard.eventengine.run/).
+
+Once the Event has begun, find your name below and enter the 12 digit hash (next to your name) in the Team Dashboard.
+
+From within the Team Dashboard, click on "AWS Console" and then "Open AWS Console". This will open the console in a new tab for you to begin your labs.
+
+
+!!! warning "IMPORTANT"
+    Each attendee will have their own, unique AWS account to perform the labs. Make sure you find your name in the list and only use ** your** hash.  If you don't see your name in the table, please let us know.
+
+
+| Name              | AWS Event Engine Hash |
+| ----------------- | ---------------------- |
+| Thea Ganoe | cb98-0466609b04-81 |
+| Troy Ingram | 4790-0284cf4a04-9a |
+| John Grant | 782d-0572ae3704-89 |
+| John Fuller | 4779-05f56ae1e4-4e |
+| Extra-2 | ca8b-0955c024f4-a0 |
+| Alex Dorfman | 116f-042bc5b464-84 |
+| Josh Taylor | 51a9-009957cd94-05 |
+| Extra-1 | 196e-06907170d4-3a |
+| Chris Hutcheson | dff2-00aecb0674-2d |
+| Vishesh Jha | 4dc4-03fe87f944-3d |
+| Rajiv Kadiyam | af41-092ac4a3d4-dd |
+| Nicholas Marchand | 3ce9-095e456304-7d |
+| Marlon Guinto | 5c03-06a6b0dc04-db |
+
+!!! info
+    These accounts will be available for you to use until close of business on **07/01/2021**
+
+## Verify Region
+
+For this class, we will be doing all of our work out of the **us-east-1 (N. Virgina)** region. To verify you're using the correct region, the region dropdown at the top right of the screen should read _N. Virginia_.
+
+![Console us-east-1](img/region-selection.png)
+
+## Browser
+
+We recommend you use the latest version of Chrome or Firefox to complete this workshop.
+
+## Next Steps
+
+Now that you're logged in to the console (and have the appropriate region selected!!), let's jump in. If you're new to AWS, we recommend taking a look at the [AWS Overview](overview.md) as a primer.
+
+
+
+
+## Lab 0: Starting Amazon SageMaker Studio
 
 <!--
 <img align="left" src="img/eyecatch_sagemaker.png"></br></br>
 -->
 
-## Beginning the Lab
+### Beginning the Lab
 
 First we are going to start a SageMaker Studio instance. 
 
