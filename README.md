@@ -24,22 +24,15 @@ From within the Team Dashboard, click on "AWS Console" and then "Open AWS Consol
 
 | Name              | AWS Event Engine Hash |
 | ----------------- | ---------------------- |
-| Thea Ganoe | cb98-0466609b04-81 |
-| Troy Ingram | 4790-0284cf4a04-9a |
-| John Grant | 782d-0572ae3704-89 |
-| John Fuller | 4779-05f56ae1e4-4e |
-| Extra-2 | ca8b-0955c024f4-a0 |
-| Alex Dorfman | 116f-042bc5b464-84 |
-| Josh Taylor | 51a9-009957cd94-05 |
-| Extra-1 | 196e-06907170d4-3a |
-| Chris Hutcheson | dff2-00aecb0674-2d |
-| Vishesh Jha | 4dc4-03fe87f944-3d |
-| Rajiv Kadiyam | af41-092ac4a3d4-dd |
-| Nicholas Marchand | 3ce9-095e456304-7d |
-| Marlon Guinto | 5c03-06a6b0dc04-db |
+|Thea| 29c1-0e0abacfa4-67|
+|John| e584-05528d02f4-fc|
+|Josh| e997-073e4c3b54-3c|
+|Alex| 33d3-0a1b96aca4-7d|
+|Troy| c256-0d85ab3ba4-90|
+
 
 !!! info
-    These accounts will be available for you to use until close of business on **07/01/2021**
+    These accounts will be available for you to use until11:30am EST **07/15/2021**
 
 ## Verify Region
 
